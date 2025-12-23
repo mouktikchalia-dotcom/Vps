@@ -3,7 +3,7 @@
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Kolkata
 
-ARG NGROK_AUTHTOKEN="30de76N8U0peqAbnpt0XbL8rfWF_3YtTFrsMPjdJmHSphW1Dc"
+ARG NGROK_AUTHTOKEN="37F87ZOreJlTuZrV65sab0HR2t3_6jy4ZJc5XJdm2oTVwyfMX"
 ARG ROOT_PASSWORD="Darkboy336"
 
 # Install minimal tools and tzdata
